@@ -59,4 +59,4 @@ print("--------------------------------------------------------------")
 ## Output :
 ![output](p05.png)
 ## Result : 
-
+The average number  of material in the system and in the conveyor, waiting time of each material in the system and conveyorvis found successsfully
